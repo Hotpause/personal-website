@@ -319,6 +319,16 @@ section {
   /* gap: 2.5rem; */
   justify-items: center;
 }
+.article-container-p {
+  display: flex;
+  text-align: initial;
+  /* border: 2px solid red; */
+  padding: 1rem;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 2.5rem;
+  justify-content: center;
+}
 
 article {
   /* border: 2px solid green; */
